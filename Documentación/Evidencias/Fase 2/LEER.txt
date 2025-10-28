@@ -1,0 +1,6 @@
+En este directorio se encuentra la evidencia tanto de documentación requerida, como imágenes del avance del proyecto. Además en este repositorio se encuentra el código tanto del ambiente docker como de la aplicación local del BESS. La documentación para configurar los repositorios está en archivos markdown en los repositorios correspondientes.
+
+Integrantes:
+Alexandra Dávila
+Dani Ocaranza
+Maximiliano Villavicencio
