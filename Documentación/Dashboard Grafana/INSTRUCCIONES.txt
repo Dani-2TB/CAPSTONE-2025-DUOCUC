@@ -1,0 +1,7 @@
+Para cargar el dashboard en grafana, se deberá primero editar todas las instancias del UID de la fuente de datos configurada.
+
+Para esto, ir en la interfaz de grafana a la configuración de la fuente de datos deseada, el enlace se verá algo así: http://localhost:3000/connections/datasources/edit/1f1sdf23d9hce
+
+El último número del enlace es decir "1f1sdf23d9hce" corrresponde al UID de la fuente de datos. Abrir el archivo .json y modificar todas las instancias del UID, se recomienda usar algún editor que permita buscar y reemplazar automáticamente, ya que hay muchas referencias al UID. Si no, el dashboard embebido no mostrará los datos.
+
+Una vez reemplazado, entrar a grafana, sección dashboards, y en el menú, agregar un nuevo dashboard e importar. Ahí se importará el .json que armará el dashboard.
