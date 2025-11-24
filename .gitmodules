@@ -5,4 +5,4 @@
 [submodule "BESS-Docker-Environment"]
 	path = BESS-Docker-Environment
 	url = https://github.com/Dani-2TB/BESS-Docker-Environment
-	branch = main
+	branch = dev
