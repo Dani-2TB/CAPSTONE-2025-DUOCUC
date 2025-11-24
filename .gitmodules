@@ -1,6 +1,6 @@
 [submodule "BESS-TelemetryInterface"]
 	path = BESS-TelemetryInterface
-	url = git@github.com:Dani-2TB/BESS-TelemetryInterface.git
+	url = https://github.com/Dani-2TB/BESS-TelemetryInterface.git
 	branch = dev
 [submodule "BESS-Docker-Environment"]
 	path = BESS-Docker-Environment
